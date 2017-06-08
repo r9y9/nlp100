@@ -1,6 +1,6 @@
 # nlp100
 
-[言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/) をやりました。
+[言語処理100本ノック 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/) をやりました。だいだいpython、80~99あたりはところどころjulia
 
 ```
 ls -lh 00.py 99.py
