@@ -1,3 +1,22 @@
+*.txt
+*.jpeg
+*.cabocha
+*.mecab
+*.vector
+*.vector.bin
+*.ldb
+*.json
+*.csv
+*.neg
+*.pos
+*.tar.gz
+*.zip
+*.jld
+*.h5
+*.tab
+*.xml
+*.gz
+
 # Created by https://www.gitignore.io
 
 ### Python ###
