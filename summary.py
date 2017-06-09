@@ -17,7 +17,7 @@ p = sns.barplot(x=tt, y=range(100))
 plt.xticks(rotation=30)
 p.tick_params(axis='both', which='major', labelsize=24)
 p.tick_params(axis='both', which='minor', labelsize=24)
-plt.xlabel("Day (from 2017/05/30)", fontsize=28)
+plt.xlabel("Day", fontsize=28)
 plt.ylabel("Acheivement", fontsize=26)
 
 # plt.show()
